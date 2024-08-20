@@ -2,7 +2,7 @@
 The code will come soon.
 
 <p align="center">
-<img width="600" alt="image" src="figures/Figure1.png"> 
+<img width="928" alt="image" src="figures/Figure1.png"> 
 </p>
 
 ## Abstract
